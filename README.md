@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-You can see live project in here: [Viwe Online](https://blog-virid-eta.vercel.app)
+You can see live project in here: [Viwe Online](https://todo-app-ten-xi.vercel.app)
+
 This projct can add,remove,edit,,filter todos Completed and uncompleted todo.So filter todos based on completeness, activation, and all todos.
 
 ### About Project
