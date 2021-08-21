@@ -28,9 +28,9 @@ const InputText = () => {
 
   return (
     <>
-      <div className="col-12">
+      <div className="col-12 p-0">
         <input
-          className="form-control p-2"
+          className="form-control p-3"
           placeholder="Add task and press enter key..."
           value={text}
           ref={inputRef}

@@ -9,9 +9,9 @@ const FilterTodo = () => {
     dispatch(statusFilterAction(target.value));
   };
   return (
-    <div className="col-md-3">
+    <div className="col col-md-4">
       <div className="d-flex justify-content-end">
-        <label htmlFor="filter" className="col-form-label">
+        <label htmlFor="filter" className="col-form-label fw-bold">
           Filter Task
         </label>
         <div className="ms-3">

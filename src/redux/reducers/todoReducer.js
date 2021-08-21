@@ -1,5 +1,5 @@
 const initState = {
-    todos: {}
+    todos: {},
 }
 const todoReducer = (state = initState, action) => {
     switch (action.type) {
